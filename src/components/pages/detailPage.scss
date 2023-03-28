@@ -1,0 +1,30 @@
+@import "~react-image-gallery/styles/scss/image-gallery.scss";
+
+.detail {
+    margin-top: 50px;
+}
+
+.imageGallery {
+    margin-top: 50px;
+}
+
+.spinner {
+    margin-top: 300px; 
+}
+
+
+
+.gallery {
+    &__btn {
+        padding-top: 30px;
+        max-width: 170px;
+    }
+
+    &__choise{
+        padding-top: 20px;
+    }
+}
+
+.detailPageBtn {
+    padding-top: 30px;
+}
